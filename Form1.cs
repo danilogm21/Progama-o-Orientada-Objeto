@@ -18,7 +18,7 @@ namespace WFcomMetodos
         }
 
         //Instanciação da classe de métodos: é o mesmo que criar uma instância, ou criar um ojeto.
-        ClasseMetodos calcular = new ClasseMetodos(); //Calula é um objeto da ClasseMetodos
+        ClasseMetodos calcular = new ClasseMetodos(); //Calcula é um objeto da ClasseMetodos
 
         private void btnsoma_Click(object sender, EventArgs e)
         {
